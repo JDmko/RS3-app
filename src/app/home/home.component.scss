@@ -1,0 +1,71 @@
+.bg{
+        width: 100%;
+        max-width: 500px;
+        height: 100vh;
+        padding: 0;
+        margin: 0;
+        position: absolute;
+        left: auto;
+        z-index: -10;
+    }
+    content{
+        padding: 0;
+        margin: 0;
+        height: 100%;
+        width: 100%;
+            .header{
+                text-align: center;
+                padding: 40% 5px 0 5px;
+                color: white;
+            }
+            
+            .mainText{
+                font-size: 15px;
+                text-align: center;
+                color: white;
+                padding: 0 5px 0 5px;
+            }
+             
+            .btn{
+                width: 130px;
+                background: #222121;
+                border-radius: 10px;
+                color: white;
+                text-align: center;
+                height: 30px;
+                padding-top: 10px;
+                margin: 30px auto ;
+                cursor: pointer;
+            }
+            .btn:hover{
+                background: #d4d3d3;
+            }
+        }
+     
+
+    
+@keyframes scale{
+
+    from {transform: scale(1);}
+    50% {transform: scale(1.8) translateY(-50px);}
+    90% {transform: scale(1.8) translateY(50px);}
+    to {transform: scale(1);}
+
+
+}    
+
+
+@media (max-width: 500px) { 
+    
+     .bg{
+        animation: scale 30s infinite ease-in-out;
+        background-size: cover;
+     }
+     content{
+
+        .btn{
+            margin: 100px auto ;
+        }
+     }
+     
+}

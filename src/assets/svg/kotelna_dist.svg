@@ -1,0 +1,47 @@
+<svg class="kotelna" viewBox="0 0 600 340">
+  
+  <g transform="translate(0,43)">
+  <text x="-1304.817" y="76.568504" fill="#000000" font-family="Impact" font-size="7.543px" font-weight="bold" letter-spacing="0px" stroke-width=".18858" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-1304.817" y="84.11969" font-family="Impact" font-weight="bold" stroke-width=".18858"/></text>
+  <rect x="288.34" y="-17.854" width="18.837" height="148.62" fill="#d6b65d" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-90)" x="15.745" y="208.96" width="19.391" height="98.237" fill="#d6b65d" style="paint-order:stroke fill markers"/>
+  <rect x="99.875" y="-35.45" width="128.4" height="169.94" ry="0" fill="#222121" style="paint-order:stroke fill markers"/>
+  <rect x="353" y="-34.731" width="18.581" height="226.48" fill="#222121" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-90)" x="15.692" y="353.05" width="20.434" height="79.605" fill="#222121" style="paint-order:stroke fill markers"/>
+  <rect x="414.54" y="-36.184" width="130.64" height="172.91" ry="0" fill="#222121" style="paint-order:stroke fill markers"/>
+  <rect x="320.08" y="230.57" width="19.761" height="45.939" fill="#222121" style="paint-order:stroke fill markers"/>
+  <rect x="352.62" y="215.71" width="19.376" height="15.494" fill="#222121" style="paint-order:stroke fill markers"/>
+  <rect x="288.07" y="215.71" width="19.376" height="14.746" fill="#222121" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-90)" x="-248.29" y="166.11" width="18.302" height="332.1" fill="#222121" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-90)" x="-184.83" y="162.89" width="19.451" height="88.648" fill="#d6b65d" style="paint-order:stroke fill markers"/>
+  <rect x="62.595" y="183.77" width="20.177" height="10.876" fill="#222121" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-90)" x="-183.89" y="62.83" width="19.043" height="40.64" fill="#222121" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-90)" x="-184.09" y="9.1236" width="19.276" height="73.88" fill="#222121" style="paint-order:stroke fill markers"/>
+  <rect x="97.974" y="159.99" width="70.009" height="29.088" ry="0" fill="#bd0600" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-90)" x="-248.52" y="63.902" width="18.62" height="39.336" fill="#222121" style="paint-order:stroke fill markers"/>
+  <rect x="96.917" y="224.02" width="70.009" height="29.088" ry="0" fill="#028f24" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-90)" x="-248.51" y="551" width="18.609" height="40.648" fill="#d6b65d" style="paint-order:stroke fill markers"/>
+  <rect x="496.96" y="224.02" width="70.009" height="29.088" ry="0" fill="#bd0600" style="paint-order:stroke fill markers"/>
+  <text x="106.4557" y="77.104347" fill="#ffffff" font-family="sans-serif" font-size="77.177px" font-weight="bold" letter-spacing="0px" stroke-width="1.9294" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="106.4557" y="77.104347" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width="1.9294">K5</tspan></text>
+  <text x="421.62054" y="78.85405" fill="#ffffff" font-family="sans-serif" font-size="78.523px" font-weight="bold" letter-spacing="0px" stroke-width="1.9631" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="421.62054" y="78.85405" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width="1.9631">K3</tspan></text>
+  <text x="109.19041" y="183.26483" fill="#ffffff" font-family="sans-serif" font-size="23.975px" letter-spacing="0px" stroke-width=".59937" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="109.19041" y="183.26483" fill="#ffffff" font-family="sans-serif" stroke-width=".59937">RS3</tspan></text>
+  <text x="108.37339" y="247.29483" fill="#ffffff" font-family="sans-serif" font-size="23.975px" letter-spacing="0px" stroke-width=".59937" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="108.37339" y="247.29483" fill="#ffffff" font-family="sans-serif" stroke-width=".59937">RS2</tspan></text>
+  <text x="508.32672" y="247.29483" fill="#ffffff" font-family="sans-serif" font-size="23.975px" letter-spacing="0px" stroke-width=".59937" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="508.32672" y="247.29483" fill="#ffffff" font-family="sans-serif" stroke-width=".59937">RS1</tspan></text>
+  <rect x="288.15" y="154.06" width="19.215" height="38.72" fill="#d6b65d" style="paint-order:stroke fill markers"/>
+  <rect x="285.07" y="130.14" width="25.696" height="24.243" ry="0" fill="#bd0600" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-90)" x="-185.03" y="273.82" width="19.842" height="33.6" fill="#d6b65d" style="paint-order:stroke fill markers"/>
+  <rect x="250.68" y="162.42" width="25.696" height="24.243" ry="0" fill="#bd0600" style="paint-order:stroke fill markers"/>
+  <rect x="284.54" y="192.58" width="25.696" height="24.243" ry="0" fill="#bd0600" style="paint-order:stroke fill markers"/>
+  <rect x="62.727" y="218.4" width="19.913" height="30.279" fill="#222121" style="paint-order:stroke fill markers"/>
+  <rect x="59.244" y="194.17" width="25.696" height="24.243" ry="0" fill="#028f24" style="paint-order:stroke fill markers"/>
+  <text x="65.567245" y="213.56984" fill="#ffffff" font-family="sans-serif" font-size="19.958px" letter-spacing="0px" stroke-width=".49896" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="65.567245" y="213.56984" fill="#ffffff" font-family="sans-serif" stroke-width=".49896">1</tspan></text>
+  <text x="291.31067" y="212.11139" fill="#ffffff" font-family="sans-serif" font-size="19.958px" letter-spacing="0px" stroke-width=".49896" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="291.31067" y="212.11139" fill="#ffffff" font-family="sans-serif" stroke-width=".49896">2</tspan></text>
+  <text x="257.22162" y="181.8101" fill="#ffffff" font-family="sans-serif" font-size="19.958px" letter-spacing="0px" stroke-width=".49896" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="257.22162" y="181.8101" fill="#ffffff" font-family="sans-serif" stroke-width=".49896">3</tspan></text>
+  <text x="291.64575" y="149.53983" fill="#ffffff" font-family="sans-serif" font-size="19.958px" letter-spacing="0px" stroke-width=".49896" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="291.64575" y="149.53983" fill="#ffffff" font-family="sans-serif" stroke-width=".49896">4</tspan></text>
+  <rect x="7.7136" y="164.76" width="19.342" height="107.36" fill="#222121" style="paint-order:stroke fill markers"/>
+  <rect x="572.28" y="229.91" width="19.753" height="46.857" fill="#d6b65d" style="paint-order:stroke fill markers"/>
+  <rect x="294.16" y="263.69" width="70.009" height="29.088" ry="0" fill="#028f24" style="paint-order:stroke fill markers"/>
+  <text x="305.62625" y="286.96484" fill="#ffffff" font-family="sans-serif" font-size="23.975px" letter-spacing="0px" stroke-width=".59937" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="305.62625" y="286.96484" fill="#ffffff" font-family="sans-serif" stroke-width=".59937">TG4</tspan></text>
+  <rect x="349.43" y="191.5" width="25.696" height="24.243" ry="0" fill="#028f24" style="paint-order:stroke fill markers"/>
+  <text x="356.03497" y="210.75853" fill="#ffffff" font-family="sans-serif" font-size="19.958px" letter-spacing="0px" stroke-width=".49896" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="356.03497" y="210.75853" fill="#ffffff" font-family="sans-serif" stroke-width=".49896">5</tspan></text>
+  </g>
+  </svg>
